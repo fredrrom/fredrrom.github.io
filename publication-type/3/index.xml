@@ -5,7 +5,7 @@
     <link>/publication-type/3/</link>
       <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 15:10:40 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 20:55:41 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Rewriting Logic Semantics and Symbolic Analysis for Parametric Timed Automata</title>
-      <link>/publication/ftscs22/</link>
-      <pubDate>Thu, 17 Nov 2022 15:10:40 +0000</pubDate>
-      <guid>/publication/ftscs22/</guid>
+      <title>Symbolic Analysis and Parameter Synthesis for Time Petri Nets Using Maude and SMT Solving</title>
+      <link>/publication/petri-nets-2023-arxiv/</link>
+      <pubDate>Wed, 15 Mar 2023 20:55:41 +0000</pubDate>
+      <guid>/publication/petri-nets-2023-arxiv/</guid>
       <description></description>
     </item>
     

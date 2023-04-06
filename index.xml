@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Symbolic Analysis and Parameter Synthesis for Time Petri Nets Using Maude and SMT Solving</title>
+      <link>/publication/petri-nets-2023-arxiv/</link>
+      <pubDate>Wed, 15 Mar 2023 20:55:41 +0000</pubDate>
+      <guid>/publication/petri-nets-2023-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rewriting Logic Semantics and Symbolic Analysis for Parametric Timed Automata</title>
       <link>/publication/ftscs-2022/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:20 +0000</pubDate>
@@ -224,7 +232,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-284617359&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-175896324&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -234,7 +242,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-284617359&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-175896324&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
